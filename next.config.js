@@ -23,6 +23,6 @@ module.exports = {
   env: {
     CHANNEL_ID: process.env.CHANNEL_ID,
     SLACK_TOKEN: process.env.SLACK_TOKEN,
-    SLACK_ENDPOINT: 'https://ijjk.slack.com/api',
+    SLACK_ENDPOINT: 'https://mpigula.slack.com/api',
   },
 }
